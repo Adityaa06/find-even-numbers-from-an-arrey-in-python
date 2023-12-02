@@ -1,0 +1,1 @@
+# find-even-numbers-from-an-arrey-in-python
